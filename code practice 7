@@ -1,0 +1,11 @@
+fun main() {
+   println(sum(4, 5))
+   println(difference(10, 4))
+   println(product(4, 6))
+   println(division(12, 2))
+}
+
+fun sum(a: Int, b: Int) = a + b
+fun difference(a: Int, b: Int) = a - b
+fun product(a: Int, b: Int) = a * b
+fun division(a: Int, b: Int) = a / b
