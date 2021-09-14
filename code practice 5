@@ -1,0 +1,5 @@
+fun main() {
+   val goals = 600
+   val ronaldo = "Cristiano Ronaldo"
+   print("$ronaldo has scored $goals league goals!!")
+}
