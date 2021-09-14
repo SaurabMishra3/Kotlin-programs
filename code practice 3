@@ -1,0 +1,20 @@
+fun main() {
+   val leo = "Lionel Messi"
+   println(leo.length)
+
+   val ronaldo = "Cristiano Ronaldo"
+   println(ronaldo.length)
+
+   val pogba = "Paul Pogba"
+   println(pogba.length)
+
+   val ibra = "Zlatan Ibrahimovic"
+   println(ibra.length)
+
+   val harry = "Harry Kane"
+   println(harry.length)
+
+   val hazard = "Eden Hazard"
+   println(hazard.length)
+
+}
