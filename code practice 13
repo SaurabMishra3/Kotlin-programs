@@ -1,0 +1,7 @@
+import java.util.*
+
+fun main(){
+   // Write your code here
+   val data =arrayOf(1,2,"hello",false)
+   println(Arrays.toString(data))
+}
