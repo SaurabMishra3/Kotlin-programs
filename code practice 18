@@ -1,0 +1,26 @@
+fun main() {
+    // write your code here
+    var i=1
+    var sum=0
+    println("using for loop")
+    for (i in 1..50) {
+         sum = sum + i
+        println(sum)
+    }
+    var j=1
+    var re=0
+    while (j<=50) {
+        re =re+j
+        println(re)
+        j++
+    }
+    var k=1
+    var s=0
+
+    do {
+        s+=k
+        k++
+
+    }while (k<=50)
+    }
+
