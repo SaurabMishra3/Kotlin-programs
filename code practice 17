@@ -1,0 +1,19 @@
+fun main() {
+    // write your code here
+    var i=1
+    println("using for loop")
+    for (i in 1..50)println(i)
+
+    println("using while loop" )
+    var k=1
+    while(k<=50){
+        println(k)
+        k++
+    }
+    println("using do while loop")
+    do{
+        println(i)
+        i++
+
+    }while (i<=50)
+}
