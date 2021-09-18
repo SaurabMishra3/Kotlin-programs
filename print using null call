@@ -1,0 +1,7 @@
+fun main(){
+
+    // write your code here
+    val str = ("Hello, Kotlin")
+    println(str?.length)//safe call
+    println(str!!.length)//non safe assertion
+}
