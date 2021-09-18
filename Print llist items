@@ -1,0 +1,11 @@
+fun main() {
+    
+    // write your code here
+    val iList =listOf("Lionel Messi", "Wayne Rooney","Luka Modric","Eden Hazard", "Sergio Aguero")
+    println(iList)
+    val mList=mutableListOf("Lionel Messi", "Wayne Rooney","Luka Modric","Eden Hazard", "Sergio Aguero")
+    println(mList)
+    val aList=arrayListOf("Lionel Messi", "Wayne Rooney","Luka Modric","Eden Hazard", "Sergio Aguero")
+      println(aList)
+    
+}
