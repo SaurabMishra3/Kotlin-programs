@@ -1,0 +1,10 @@
+fun main() {
+    
+    // write your code here
+    var fact=1
+    for (i in 7 downTo 1){
+        fact*=i
+    }
+    println(fact)
+    
+}
